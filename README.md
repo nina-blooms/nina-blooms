@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+[index.txt](https://github.com/user-attachments/files/17252171/index.txt)<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,7 +75,7 @@
 
     <header>
         <h1>Nina's Blooms of Hope</h1>
-        <p>Backyard Flower Farm – Bringing Blooms and Hope to Our Community</p>
+        <p>Backyard Flower Farm � Bringing Blooms and Hope to Our Community</p>
     </header>
 
     <nav>
@@ -88,7 +89,7 @@
 
     <section id="about">
         <h2>About Us</h2>
-        <p>At Nina's Blooms of Hope, we believe in the power of flowers to bring joy, hope, and beauty into the world. Our backyard flower farm is dedicated to growing organic, sustainable blooms that brighten both homes and hearts. Whether you’re looking for seedlings to start your own garden or fresh flowers for a special occasion, we’re here to help.</p>
+        <p>At Nina's Blooms of Hope, we believe in the power of flowers to bring joy, hope, and beauty into the world. Our backyard flower farm is dedicated to growing organic, sustainable blooms that brighten both homes and hearts. Whether you�re looking for seedlings to start your own garden or fresh flowers for a special occasion, we�re here to help.</p>
     </section>
 
     <section id="blog">
@@ -109,13 +110,13 @@
 
     <section id="order-flowers">
         <h2>Order Flowers</h2>
-        <p>Whether it’s for a special occasion or just because, our fresh flowers are available for order. Handpicked from our garden, each bouquet is crafted with care.</p>
+        <p>Whether it�s for a special occasion or just because, our fresh flowers are available for order. Handpicked from our garden, each bouquet is crafted with care.</p>
         <button class="button">Order Flowers</button>
     </section>
 
     <section id="donate-flowers">
         <h2>Donate Flowers</h2>
-        <p>Want to brighten someone’s day? Donate a bouquet of flowers to a local hospital or community center. Together, we can share hope and happiness through flowers.</p>
+        <p>Want to brighten someone�s day? Donate a bouquet of flowers to a local hospital or community center. Together, we can share hope and happiness through flowers.</p>
         <button class="button">Donate Flowers</button>
     </section>
 
@@ -125,3 +126,4 @@
 
 </body>
 </html>
+
